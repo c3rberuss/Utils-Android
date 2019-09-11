@@ -1,0 +1,2 @@
+include ':app', ':oss'
+rootProject.name='OSSLib'
